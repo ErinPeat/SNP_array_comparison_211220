@@ -5,4 +5,4 @@ Run on the backup workstation using docker version of R with tidyverse
 2) Run snp_array_processing.R 
 
 # Scripts for pulling data from MOKA 
-array_cnv_export_V1.0.py
+moka_array_cnv_export_V1.0.py
